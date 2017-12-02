@@ -1,0 +1,54 @@
+body {
+  font-size: 80%;
+}
+
+header {
+  background-color: grey;
+  display: flex;
+  width: 940px;
+  height: 100px;
+
+}
+
+#logo {
+  background-color: yellow;
+}
+
+
+#main_nav {
+  background-color: brown;
+}
+
+h1 {
+  background-color: blue;
+  margin: 0;
+}
+
+p {
+  background-color: purple;
+  margin: 0;
+}
+
+nav ul {
+  background-color: white;
+  padding: 13px;
+}
+
+nav li {
+  display: inline;
+  padding: 10px;
+  font-size: 90%;
+}
+
+
+section {
+  width: 940px;
+  height: 500px;
+}
+
+footer {
+  background-color: grey;
+  width: 940px;
+  height: 50px;
+
+}
