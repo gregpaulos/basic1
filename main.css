@@ -1,9 +1,10 @@
 body {
   font-size: 80%;
+  color: #B8B8B8;
 }
 
 header {
-  background-color: grey;
+  background-color: #383838;
   display: flex;
   width: 940px;
   height: 100px;
@@ -12,26 +13,26 @@ header {
 }
 
 #logo {
-  background-color: yellow;
+  /*background-color: yellow;*/
 }
 
 
 #main_nav {
-  background-color: brown;
+  /*background-color: brown;*/
 }
 
 h1 {
-  background-color: blue;
+  /*background-color: blue;*/
   margin: 0;
 }
 
 p {
-  background-color: purple;
+  /*background-color: purple;*/
   margin: 0;
 }
 
 nav ul {
-  background-color: white;
+  background-color: #101010;
   padding: 13px;
 }
 
