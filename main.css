@@ -79,6 +79,12 @@ main {
   background-color: grey;
 }
 
+#rockhero {
+  width: 510px;
+  height: 300px;
+
+}
+
 .feature-benefits {
   display: flex;
   justify-content: space-between;
@@ -102,6 +108,11 @@ figure {
 section {
   padding-right: 30px;
 
+}
+
+.small_pic {
+  width: 80px;
+  height: 80px;
 }
 
 .read-more {
