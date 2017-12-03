@@ -49,15 +49,34 @@ nav li {
 
 main {
   width: 940px;
-  height: 600px;
-
 }
+
 
 
 #content_wrapper {
   margin-left: 90px;
   margin-right: 90px;
 
+}
+
+.big_pictures {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+#placeholder {
+  width: 200px;
+  height: 300px;
+  margin-left: 90px;
+}
+
+#hero {
+  padding-right: 0;
+  margin-right: 90px;
+  width: 510px;
+  height: 300px;
+  background-color: grey;
 }
 
 .feature-benefits {
