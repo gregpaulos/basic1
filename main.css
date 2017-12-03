@@ -47,9 +47,18 @@ nav li {
 }
 
 
-section {
+main {
   width: 940px;
   height: 600px;
+
+}
+
+
+.feature-benefits {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-bottom: 2rem;
 }
 
 footer {
