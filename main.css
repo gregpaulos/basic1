@@ -80,8 +80,21 @@ figure {
   margin-left: 0;
 }
 
+section {
+  padding-right: 30px;
+
+}
+
 .read-more {
   float: right;
+  font-size: 85%;
+
+}
+
+p a {
+  text-decoration: none;
+  color: orange;
+
 }
 
 footer {
