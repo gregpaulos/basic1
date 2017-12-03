@@ -1,4 +1,5 @@
 body {
+  font-family: palatino, serif;
   font-size: 80%;
   color: #B8B8B8;
 }
@@ -55,5 +56,11 @@ footer {
   background-color: #383838;
   width: 940px;
   height: 50px;
+  display: flex;
+  align-items: center;
 
+}
+
+.copyright {
+  margin-left: 90px;
 }
